@@ -1,6 +1,7 @@
 # Yogastitva - Your Yoga Journey
 
-![Yogastitva Logo](yogastitva_logo.png)
+![Yogastitva Logo](
+YOGASTITVA_logo.png)
 
 ## Overview
 
